@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">eDroid</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="descrption">Enter password</string>
+    <string name="or">Or</string>
+    <string name="signup">Sign Up</string>
+    <string name="Google">Google SignUp</string>
+    <string name="WelcomeUser">Welcome User</string>
+    <string name="OrSignUp">Or Sign Up through</string>
+    <string name="strike"><strike></strike></string>
+    <string name="maxPrice">Retail Price</string>
+    <string name="flipkartSellngPrice">Flipkart\'s Price</string>
+    <string name="AmazonSellngPrice">Amazon\'s Price</string>
+
+    <string name="b"><b>bf</b></string>
+    <string name="edroid">Edroid</string>
+    <string name="type">Enter product name</string>
+    <string name="title_activity_nav2"></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="user">New User? continue with:</string>
+    <string name="create">Create New Account!</string>
+    <string name="email">Email Address</string>
+    <string name="pass">Password</string>
+    <string name="action_settingss">Settings|Change Password</string>
+    <string name="changepass">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="buy">Buy Now</string>
+    <string name="shop">Compare Prices</string>
+    <string name="share">Share</string>
+    <string name="img">Loading image</string>
+    <string name="avail">Available:</string>
+    <string name="disclaimer">Edroid is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linikng to <u>Amazon.in</u></string>
+    <string name="offer">Offers</string>
+    <string name="dod">Deal Of The Day</string>
+    <string name="setb">Set Bookmark</string>
+    <string name="bookmark">Bookmarks</string>
+</resources>
